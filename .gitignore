@@ -1,0 +1,4 @@
+node_modules/
+*.bak
+config.json
+# ciao, io sono un commento
